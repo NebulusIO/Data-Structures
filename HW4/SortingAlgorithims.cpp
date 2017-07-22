@@ -217,15 +217,15 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
   */
 
   while(left <= right){
-    while(v[left] < pivot){
+    while(v[left].value < v[pivot].value){
         left++;
     }
 
-    while(v[right] > pivot){
+    while(v[right].value > v[pivot].value){
         right++;
     }
 
-    if(left <= right){
+    if(v[left].value <= v[right].value){
         swap(v, left, right);
         left++;
         right--;
