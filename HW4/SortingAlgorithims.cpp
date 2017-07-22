@@ -226,7 +226,10 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
     }
 
     if(v[left].value <= v[right].value){
-        swap(v, left, right);
+        //std::swap(v, left, right)
+        Item temp = move(v[left]);
+        v[left] = move(v[right]);
+        v[right] = move(temp);
         left++;
         right--;
     }
@@ -261,8 +264,8 @@ void SortAlg::quick_sort(std::vector<Item> & v, int left, int right){ //begin re
     return;
 
   int pivot = (left + right) / 2; //find the midpoint / median for pivot
-  int index = partition_(v, left, right);
-  quick_sort(v, left, index - 1, pivot);
-  quick_sort(v, index, right, pivot);
+  int index = partition_(v, left, right, pivot);
+  quick_sort(v, left, index - 1);
+  quick_sort(v, index, right);
 
 }//end quick_sort -- recursive part
