@@ -37,3 +37,19 @@
 1499922167 source:/home/troy/share_sonya/223programs/HW4/SortingAlgorithims.cpp
 	"SortingAlgorithims.h"
 
+1500695942 source:/home/troy/Desktop/gitTest/223_programs/HW4/main.cpp
+	"SortingAlgorithims.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1500663210 /home/troy/Desktop/gitTest/223_programs/HW4/SortingAlgorithims.h
+	<string>
+	<vector>
+	<iostream>
+	<cstdlib>
+
+1500695891 source:/home/troy/Desktop/gitTest/223_programs/HW4/SortingAlgorithims.cpp
+	"SortingAlgorithims.h"
+

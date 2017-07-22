@@ -240,7 +240,7 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right){
 
 void SortAlg::quick_sort(){ //driving function w/ copy string & print functionality
   std::vector<Item> v = this->m_string; //copy over string to leave original m_string alone
-
+    
     ///print before quick_sort
   cout << "before quick_sort Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)

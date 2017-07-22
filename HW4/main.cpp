@@ -89,7 +89,7 @@ vector<Item> my_Array;
 
         else if(cmd.find("quick_sort(") == 0)
         {
-
+            workArray.quick_sort();
         }
 
         else if(cmd.find("print(") == 0) {workArray.printArray();}
