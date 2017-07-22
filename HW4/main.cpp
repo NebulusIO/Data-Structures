@@ -84,7 +84,7 @@ vector<Item> my_Array;
 
         else if(cmd.find("partition(") == 0)
         {
-
+            workArray.partition_();
         }
 
         else if(cmd.find("quick_sort(") == 0)

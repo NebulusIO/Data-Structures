@@ -210,11 +210,11 @@ void SortAlg::merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int 
 int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
 
   while(left <= right){
-    while(v[left].value < v[pivot].value){
+    while(v[left].value < v[pivot].value){//move left ptr until a value needs to be swapped
         left++;
     }
 
-    while(v[right].value > v[pivot].value){
+    while(v[right].value > v[pivot].value){//move rightPtr left until found value needs to be swapped
         right--;
     }
 
