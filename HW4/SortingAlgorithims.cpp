@@ -168,7 +168,7 @@ void SortAlg::merge_sort() {
            for(int i = 0; (unsigned)i < tempArr1.size(); i++)
             cout << tempArr1[i].value << "," << tempArr1[i].index << ";" << endl;;
     //
-}
+}//end merge_sort
 
 void SortAlg::merge_sort(vector<Item> & arr1, vector<Item> & arr2, int left, int right){
     if(left < right){
@@ -242,6 +242,12 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
   std::vector<Item> v = this->m_string; //copy over string to leave original m_string alone
 
   quick_sort(v, 0, v.size() - 1);
+
+  ///print
+  cout << "Final Set is now:------------------------------------------------------------------ " << endl;
+         for(int i = 0; (unsigned)i < v.size(); i++)
+          cout << v[i].value << "," << v[i].index << ";" << endl;;
+  //
 
 }//end quick_sort -- driver
 
