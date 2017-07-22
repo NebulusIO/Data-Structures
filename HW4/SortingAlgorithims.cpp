@@ -207,7 +207,7 @@ void SortAlg::merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int 
     }
 }
 
-int SortAlg::partition_(std::vector<Item> & v, int left, int right){
+int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
   /*
   takes an index of an array
   iterates through the array
@@ -216,23 +216,22 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right){
   repeat
   */
 
-  int pivot = (left + right) / 2; //find the midpoint / median
+  while(left <= right){
+    while(v[left] < pivot){
+        left++;
+    }
 
-  while(left < right){
-    if(v[left].value < v[pivot].value)
-      left++;
-    if(v[right].value > v[pivot].value)
-      right--;
-    if(v[left].value > v[pivot].value){
-      Item temp = move(v[left]);
-      v[left] = move(v[right]);
-      v[right] = move(temp);
+    while(v[right] > pivot){
+        right++;
     }
-    if(v[right].value < v[pivot].value){
-      Item temp = move(v[right]);
-      v[right] = move(v[left]);
-      v[left] = move(temp);
+
+    if(left <= right){
+        swap(v, left, right);
+        left++;
+        right--;
     }
+
+
 
   }//end while
   return left; //returns the pivot index of recursive call
@@ -263,7 +262,7 @@ void SortAlg::quick_sort(std::vector<Item> & v, int left, int right){ //begin re
 
   int pivot = (left + right) / 2; //find the midpoint / median for pivot
   int index = partition_(v, left, right);
-  quick_sort(v, left, index - 1);
-  quick_sort(v, index, right);
+  quick_sort(v, left, index - 1, pivot);
+  quick_sort(v, index, right, pivot);
 
 }//end quick_sort -- recursive part

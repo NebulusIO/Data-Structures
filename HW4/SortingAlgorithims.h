@@ -34,7 +34,7 @@ class SortAlg {
 
         void merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int rightPos, int rightEnd);
 
-        int partition_(std::vector<Item> & v, int left, int right);
+        int partition_(std::vector<Item> & v, int left, int right, int pivot);
 
         void quick_sort(); //driver
 
