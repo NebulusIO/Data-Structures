@@ -87,9 +87,7 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
 
     //sort by gap
     //use modified insertion sort
-    int array_size = work_vec.size();
-    int p;
-    int j;
+    int p, j;
 
     ///rewrite
     for(int p = gap1; p < v.size(); p++){
