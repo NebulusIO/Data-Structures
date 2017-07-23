@@ -90,6 +90,8 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
     int p, j;
 
     ///rewrite
+  if(gap1 > 0){
+
     for(p = gap1; p < v.size(); p++){
       Item temp = move(v[p]);//pull out Item to be compared against
       for(j = p; j >= gap1 && temp.value < v[j-gap1].value; j-=gap1)
@@ -97,6 +99,9 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
 
       v[j] = move(temp);
     }
+  }//end gap1 if
+
+  if(gap2 > 0){
 
     for(p = gap2; p < v.size();p++){
       Item temp = move(v[p]);
@@ -104,7 +109,11 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
         v[j] = move(v[j-gap2]);
 
       v[j] = move(temp);
-    }
+  }//end gap2 if
+
+    //}
+
+  if(gap3 > 0){
 
     for(p = gap3; p < v.size(); p++){
       Item temp = move(v[p]);
@@ -113,6 +122,9 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
 
       v[j] = move(temp);
     }
+
+  }//end gap3 if
+
     ///
 
 /*
