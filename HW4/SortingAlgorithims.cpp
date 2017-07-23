@@ -233,6 +233,11 @@ int SortAlg::partition_(int pivot){
 
   }//end while
 
+  for(x: v.size()){
+    cout << v[x].value << "," << v[x].index << ";"
+  }
+    cout << endl;
+
 
 }
 
