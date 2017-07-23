@@ -75,9 +75,10 @@ void SortAlg::insertion(){
          work_vec[j] = std::move(temp); //bring current item back 1
     }
 
-    ///print insertion
+    ///print final insertion
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
             cout << work_vec[i].value << "," << work_vec[i].index << ";";
+            cout << endl;
     //
 }//end insertion
 
@@ -126,9 +127,10 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
             work_vec[j] = std::move(temp);
     }
 
-    ///print shell
+    ///print final shell
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
             cout << work_vec[i].value << "," << work_vec[i].index << ";";
+            cout << endl;
     //
 
 }//end shell
@@ -143,6 +145,7 @@ void SortAlg::merge_sort() {
     ///print final merge
            for(int i = 0; (unsigned)i < tempArr1.size(); i++)
             cout << tempArr1[i].value << "," << tempArr1[i].index << ";";
+            cout << endl;
     //
 }//end merge_sort
 
@@ -243,9 +246,10 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
 
   quick_sort(v, 0, v.size() - 1);
 
-  ///print
+  ///print final quick_sort
          for(int i = 0; (unsigned)i < v.size(); i++)
           cout << v[i].value << "," << v[i].index << ";";
+          cout << endl;
   //
 
 }//end quick_sort -- driver
