@@ -39,7 +39,7 @@ vector<Item> my_Array;
             parameter = parameter.substr(1, parameter.length()-2);//substring from +1 of prev string to -2 of length of string to remove 2nd ')'
 
 
-        if(cmd.find("quit()") == 0) {break;} //breaks cmd loop and returns Done
+        if(cmd.find("quit(") == 0) {break;} //breaks cmd loop and returns Done
 
         else if(cmd.find("set(") == 0) { //parameter (num1Val,num1Index; ...)
             workArray.Set(parameter);
@@ -84,7 +84,7 @@ vector<Item> my_Array;
 
         else if(cmd.find("partition(") == 0)
         {
-            workArray.partition_();
+            //workArray.partition_();
         }
 
         else if(cmd.find("quick_sort(") == 0)
