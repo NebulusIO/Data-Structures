@@ -31,8 +31,8 @@ public:
     }
 
     // Copy constructor (part of the rule of 3)
-    MyString(const MyString& copyMe){
-      this->m_str = copyMe->m_str;
+    MyString(const MyString& copyMe){ //copyMe is pass-by-reference, thus is a non-pointer type
+      this->m_str = copyMe.m_str;
     }
 
     // Destructor (part of the rule of 3)
