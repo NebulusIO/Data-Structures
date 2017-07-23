@@ -85,9 +85,7 @@ vector<Item> my_Array;
         else if(cmd.find("partition(") == 0)
         {
             int pivot;
-            string temp_str = parameter;
-
-            pivot = stoi(temp_str);
+            pivot = stoi(parameter);
 
             workArray.partition_(pivot);
         }
