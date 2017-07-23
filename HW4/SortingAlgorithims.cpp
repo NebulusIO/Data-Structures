@@ -217,7 +217,7 @@ int SortAlg::partition_(int pivot){
     while(v[left].value < v[pivot].value){
       left++;//move leftItr right to find a value that needs to be moved
     }
-    while(v[right].value < v[pivot].value){
+    while(v[right].value > v[pivot].value){
       right--; //move rightItr left to find value to be swapped
     }
     if(left <= right){
@@ -233,10 +233,8 @@ int SortAlg::partition_(int pivot){
 
   }//end while
 
-  for(x: v.size()){
-    cout << v[x].value << "," << v[x].index << ";"
-  }
-    cout << endl;
+  for(int i = 0; (unsigned)i < v.size(); i++)
+   cout << v[i].value << "," << v[i].index << ";" << endl;
 
 
 }
@@ -270,7 +268,7 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
     ///print before quick_sort
   cout << "before quick_sort Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)
-          cout << v[i].value << "," << v[i].index << ";" << endl;;
+          cout << v[i].value << "," << v[i].index << ";" << endl;
   //
 
   quick_sort(v, 0, v.size() - 1);
@@ -278,7 +276,7 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
   ///print
   cout << "Final Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)
-          cout << v[i].value << "," << v[i].index << ";" << endl;;
+          cout << v[i].value << "," << v[i].index << ";" << endl;
   //
 
 }//end quick_sort -- driver
