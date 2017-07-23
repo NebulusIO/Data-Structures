@@ -56,7 +56,7 @@ int main(void)
         }
 
         else if(cmd.find("bad_char_table(") == 0) {
-            mainString.bad_char_table();
+            //mainString.bad_char_table();
         }
 
         else if(cmd.find("split(") == 0) {

@@ -27,6 +27,7 @@ public:
     // Note: there is a BIG difference between an empty string and a null string. Make
     // sure you understand this difference.
     MyString(){
+        m_str = new char;
         m_str = "";
     }
 
@@ -34,11 +35,13 @@ public:
     // Copy constructor (part of the rule of 3)
     MyString(const MyString& copyMe){
         this->m_str = copyMe.m_str;
+        //this->setStr(copyMe.m_str); ***//not sure which one
     }
 
     // Destructor (part of the rule of 3)
     virtual ~MyString(){
         delete(m_str);
+        //free(m_str); ***//not sure which one
     }
 
     int GetAnagrams(std::vector<MyString>& candidates, std::vector<MyString>& output) const;
@@ -89,7 +92,7 @@ public:
     void Set(const char* str){
       strcpy(m_str, str);
     }
-    
+
 	void Split(char c, std::vector<MyString>& outputVector) const;
     bool StartsWith(const char* str) const;
 
