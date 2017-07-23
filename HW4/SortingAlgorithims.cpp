@@ -155,8 +155,8 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
 */
 
     ///print final shell
-           for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << ";";
+           for(int i = 0; (unsigned)i < v.size(); i++)
+            cout << v[i].value << "," << v[i].index << ";";
             cout << endl;
     //
 
