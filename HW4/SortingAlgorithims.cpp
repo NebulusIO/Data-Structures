@@ -58,18 +58,7 @@ void SortAlg::insertion(){
     int p = 0;//first iterator for passes
     int j = 0;//second iterator for going back
 
-    ///testing
-    cout << "Set is now: " << endl;
-           for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << endl;
-    ///
-
-
     int array_size = work_vec.size(); //number of items in work_vec
-
-    ///test
-    cout << "array_size" << array_size << endl;
-    ///
 
     for(p = 1; p < array_size; ++p) //pass for number of items
     {
@@ -82,15 +71,11 @@ void SortAlg::insertion(){
         for(j = p; j > 0 && temp.value < work_vec[j - 1].value; --j) //set j to p ; loop j until it checks all items going back & while current item is less than the prev item
         {
             work_vec[j] = std::move(work_vec[j-1]); //bring prev item forward 1
-            ///work_vec[j].index = temp.index;
         }
-         ///maybe remove
-         ///temp.index = work_vec[j].index;//fix index before swap
          work_vec[j] = std::move(temp); //bring current item back 1
     }
 
     ///print insertion
-    cout << "Set is now: " << endl;
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
             cout << work_vec[i].value << "," << work_vec[i].index << ";";
     //
@@ -99,19 +84,12 @@ void SortAlg::insertion(){
 void SortAlg::shell(int gap1, int gap2, int gap3){
     vector<Item> work_vec = m_string;
 
-    cout << "running shell" << endl;
-
     //sort by gap
     //use modified insertion sort
     int array_size = work_vec.size();
     int p;
     int j;
 
-   ///testing
-    cout << "Set is now: " << endl;
-           for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << endl;
-    ///
 
     for(int p = gap1; p < array_size; p+=gap1)
     {
@@ -262,11 +240,6 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
 
 void SortAlg::quick_sort(){ //driving function w/ copy string & print functionality
   std::vector<Item> v = this->m_string; //copy over string to leave original m_string alone
-
-    ///print before quick_sort
-         for(int i = 0; (unsigned)i < v.size(); i++)
-          cout << v[i].value << "," << v[i].index << ";" << endl;
-  //
 
   quick_sort(v, 0, v.size() - 1);
 

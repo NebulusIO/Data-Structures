@@ -53,23 +53,31 @@ vector<Item> my_Array;
         else if(cmd.find("shell(") == 0)
         {
             int gap_1, gap_2, gap_3; //initilize gap vals
+            int comma = 0;
             string temp_str = ""; //temp string for stoi
 
+            for(int i = 0; i < parameter.size() -1; i++){
+                if(parameter[i] == ',')
+                    comma++;
+            }
+
             //convert string of gap vals to int vals
+            if(comma >= 0){
             temp_str = parameter.substr(0, parameter.find(","));
             gap_1 = stoi(temp_str);
-            parameter = parameter.substr(2);
+            }
 
+            if(comma >= 1){
+            parameter = parameter.substr(2);
             temp_str = parameter.substr(0, parameter.find(","));
             gap_2 = stoi(temp_str);
-            parameter = parameter.substr(2);
+            }
 
+            if(comma >= 2){
+            parameter = parameter.substr(2);
             temp_str = parameter.substr(0, parameter.find(","));
             gap_3 = stoi(temp_str);
-
-            ///testing
-            cout << "gaps:" << gap_1 << "," << gap_2 << "," << gap_3 << endl;
-            //
+            }
 
             //run shell()
             workArray.shell(gap_1, gap_2, gap_3);

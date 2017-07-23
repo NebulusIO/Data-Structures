@@ -58,18 +58,7 @@ void SortAlg::insertion(){
     int p = 0;//first iterator for passes
     int j = 0;//second iterator for going back
 
-    ///testing
-    cout << "Set is now: " << endl;
-           for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << endl;
-    ///
-
-
     int array_size = work_vec.size(); //number of items in work_vec
-
-    ///test
-    cout << "array_size" << array_size << endl;
-    ///
 
     for(p = 1; p < array_size; ++p) //pass for number of items
     {
@@ -82,24 +71,20 @@ void SortAlg::insertion(){
         for(j = p; j > 0 && temp.value < work_vec[j - 1].value; --j) //set j to p ; loop j until it checks all items going back & while current item is less than the prev item
         {
             work_vec[j] = std::move(work_vec[j-1]); //bring prev item forward 1
-            ///work_vec[j].index = temp.index;
+
         }
-         ///maybe remove
-         ///temp.index = work_vec[j].index;//fix index before swap
          work_vec[j] = std::move(temp); //bring current item back 1
     }
 
     ///print insertion
     cout << "Set is now: " << endl;
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << ";" << endl;;
+            cout << work_vec[i].value << "," << work_vec[i].index << ";";
     //
 }//end insertion
 
 void SortAlg::shell(int gap1, int gap2, int gap3){
     vector<Item> work_vec = m_string;
-
-    cout << "running shell" << endl;
 
     //sort by gap
     //use modified insertion sort
@@ -107,11 +92,6 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
     int p;
     int j;
 
-   ///testing
-    cout << "Set is now: " << endl;
-           for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << endl;
-    ///
 
     for(int p = gap1; p < array_size; p+=gap1)
     {
@@ -149,9 +129,8 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
     }
 
     ///print shell
-    cout << "Set is now: " << endl;
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << ";" << endl;;
+            cout << work_vec[i].value << "," << work_vec[i].index << ";";
     //
 
 }//end shell
@@ -164,9 +143,8 @@ void SortAlg::merge_sort() {
     merge_sort(tempArr1, tempArr2, 0, tempArr1.size()-1);
 
     ///print final merge
-    cout << "Final Set is now:------------------------------------------------------------------ " << endl;
            for(int i = 0; (unsigned)i < tempArr1.size(); i++)
-            cout << tempArr1[i].value << "," << tempArr1[i].index << ";" << endl;;
+            cout << tempArr1[i].value << "," << tempArr1[i].index << ";";
     //
 }//end merge_sort
 
@@ -207,35 +185,57 @@ void SortAlg::merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int 
     }
 }
 
-int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
-  /*
-  takes an index of an array
-  iterates through the array
-  compares if index is less than partitionvalue or greater than
+int SortAlg::partition_(int pivot){
+  std::vector<Item> v = this->m_string;//copy m_string to v
 
-  repeat
-  */
+  int left = 0;
+  int right = v.size() - 1;
 
   while(left <= right){
     while(v[left].value < v[pivot].value){
+      left++;//move leftItr right to find a value that needs to be moved
+    }
+    while(v[right].value > v[pivot].value){
+      right--; //move rightItr left to find value to be swapped
+    }
+    if(left <= right){
+      Item temp = move(v[left]);
+      v[left] = move(v[right]);
+      v[right] = move(temp);
+      //swap
+
+      left++;
+      right--;
+      //itr both
+    }//end if
+
+  }//end while
+
+  for(int i = 0; (unsigned)i < v.size(); i++)
+   cout << v[i].value << "," << v[i].index << ";";
+
+
+}
+
+int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
+
+  while(left <= right){
+    while(v[left].value < v[pivot].value){//move left ptr until a value needs to be swapped
         left++;
     }
 
-    while(v[right].value > v[pivot].value){
-        right++;
+    while(v[right].value > v[pivot].value){//move rightPtr left until found value needs to be swapped
+        right--;
     }
 
-    if(v[left].value <= v[right].value){
+    if(left <= right){
         //std::swap(v, left, right)
         Item temp = move(v[left]);
-        v[left] = v[right];
+        v[left] = move(v[right]);
         v[right] = move(temp);
         left++;
         right--;
     }
-
-
-
   }//end while
   return left; //returns the pivot index of recursive call
 }//end partition_
@@ -244,17 +244,15 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
   std::vector<Item> v = this->m_string; //copy over string to leave original m_string alone
 
     ///print before quick_sort
-  cout << "before quick_sort Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)
-          cout << v[i].value << "," << v[i].index << ";" << endl;;
+          cout << v[i].value << "," << v[i].index << ";" << endl;
   //
 
   quick_sort(v, 0, v.size() - 1);
 
   ///print
-  cout << "Final Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)
-          cout << v[i].value << "," << v[i].index << ";" << endl;;
+          cout << v[i].value << "," << v[i].index << ";";
   //
 
 }//end quick_sort -- driver
@@ -264,8 +262,8 @@ void SortAlg::quick_sort(std::vector<Item> & v, int left, int right){ //begin re
     return;
 
   int pivot = (left + right) / 2; //find the midpoint / median for pivot
-  int index = partition_(v, left, right);
-  quick_sort(v, left, index - 1, pivot);
-  quick_sort(v, index, right, pivot);
+  int index = partition_(v, left, right, pivot);
+  quick_sort(v, left, index - 1);//quick_sort left_subarray
+  quick_sort(v, index, right);//quick_sort right_subarray
 
 }//end quick_sort -- recursive part
