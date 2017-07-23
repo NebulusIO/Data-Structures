@@ -210,6 +210,9 @@ void SortAlg::merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int 
 int SortAlg::partition_(int pivot){
   std::vector<Item> v = this->m_string;//copy m_string to v
 
+  int left = 0;
+  int right = v.size() - 1;
+
   while(left <= right){
     while(v[left].value < v[pivot].value){
       left++;//move leftItr right to find a value that needs to be moved
