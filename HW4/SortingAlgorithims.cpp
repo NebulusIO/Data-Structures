@@ -109,6 +109,7 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
         v[j] = move(v[j-gap2]);
 
       v[j] = move(temp);
+    }
   }//end gap2 if
 
     //}
