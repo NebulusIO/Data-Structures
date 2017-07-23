@@ -95,6 +95,10 @@ vector<Item> my_Array;
             int pivot;
             pivot = stoi(parameter);
 
+            ///testing
+            cout << "pivot is: " << pivot << endl;
+            //
+
             workArray.partition_(pivot);
         }
 
