@@ -218,7 +218,7 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
         right--;
     }
 
-    if(v[left].value <= v[right].value){
+    if(left <= right){
         //std::swap(v, left, right)
         Item temp = move(v[left]);
         v[left] = move(v[right]);
