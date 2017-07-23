@@ -92,7 +92,7 @@ void SortAlg::insertion(){
     ///print insertion
     cout << "Set is now: " << endl;
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << ";" << endl;;
+            cout << work_vec[i].value << "," << work_vec[i].index << ";";
     //
 }//end insertion
 
@@ -149,9 +149,8 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
     }
 
     ///print shell
-    cout << "Set is now: " << endl;
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
-            cout << work_vec[i].value << "," << work_vec[i].index << ";" << endl;;
+            cout << work_vec[i].value << "," << work_vec[i].index << ";";
     //
 
 }//end shell
@@ -164,9 +163,8 @@ void SortAlg::merge_sort() {
     merge_sort(tempArr1, tempArr2, 0, tempArr1.size()-1);
 
     ///print final merge
-    cout << "Final Set is now:------------------------------------------------------------------ " << endl;
            for(int i = 0; (unsigned)i < tempArr1.size(); i++)
-            cout << tempArr1[i].value << "," << tempArr1[i].index << ";" << endl;;
+            cout << tempArr1[i].value << "," << tempArr1[i].index << ";";
     //
 }//end merge_sort
 
@@ -234,7 +232,7 @@ int SortAlg::partition_(int pivot){
   }//end while
 
   for(int i = 0; (unsigned)i < v.size(); i++)
-   cout << v[i].value << "," << v[i].index << ";" << endl;
+   cout << v[i].value << "," << v[i].index << ";";
 
 
 }
@@ -266,7 +264,6 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
   std::vector<Item> v = this->m_string; //copy over string to leave original m_string alone
 
     ///print before quick_sort
-  cout << "before quick_sort Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)
           cout << v[i].value << "," << v[i].index << ";" << endl;
   //
@@ -274,9 +271,8 @@ void SortAlg::quick_sort(){ //driving function w/ copy string & print functional
   quick_sort(v, 0, v.size() - 1);
 
   ///print
-  cout << "Final Set is now:------------------------------------------------------------------ " << endl;
          for(int i = 0; (unsigned)i < v.size(); i++)
-          cout << v[i].value << "," << v[i].index << ";" << endl;
+          cout << v[i].value << "," << v[i].index << ";";
   //
 
 }//end quick_sort -- driver
