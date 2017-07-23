@@ -11,7 +11,7 @@ int main(void)
     cout << "Francis Troy Kirinhakone, 11429784" << endl;
 
     //create MyString to work with
-    MyString *myStr = new MyString;
+    MyString mainString;
 
     while(true)
     {
@@ -31,12 +31,12 @@ int main(void)
         if(cmd.find("quit()") == 0) {break;} //breaks cmd loop and returns Done
 
         else if (cmd.find("set(") == 0){ //sets stringBeingUsed with input paramaters
-           myStr->Set(c_str_par);
+           mainString.Set(c_str_par);
         }
 
         else if(cmd.find("substr(") == 0) {
             int startIndx = atoi(c_str_par);
-            myStr->Substring(startIndx);
+            mainString.Substring(startIndx);
         }
 
         else if(cmd.find("indexof(") == 0) {
@@ -52,31 +52,31 @@ int main(void)
             int t_int_sub_num = atoi(t_char_num);
             //
 
-            myStr->IndexOf(t_char_sub_str, t_int_sub_num);
+            mainString.IndexOf(t_char_sub_str, t_int_sub_num);
         }
 
         else if(cmd.find("bad_char_table(") == 0) {
-            myStr->bad_char_table();
+            mainString.bad_char_table();
         }
 
         else if(cmd.find("split(") == 0) {
-//            myStr->Split();
+//            mainString.Split();
         }
 
         else if(cmd.find("reverse(") == 0 ) {
-            myStr->Reverse();
+            mainString.Reverse();
         }
 
         else if(cmd.find("is_integer(") == 0) {
-            myStr->IsInt();
+            mainString.IsInt();
         }
 
         else if(cmd.find("starts_with(") == 0) {
-//           myStr->StartsWith();
+//           mainString.StartsWith();
         }
 
         else if(cmd.find("anagrams(") == 0) {
-//            myStr->GetAnagrams();
+//            mainString.GetAnagrams();
         }
 
     }
