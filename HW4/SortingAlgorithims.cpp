@@ -83,7 +83,7 @@ void SortAlg::insertion(){
 }//end insertion
 
 void SortAlg::shell(int gap1, int gap2, int gap3){
-    vector<Item> work_vec = m_string;
+    vector<Item> v = m_string;
 
     //sort by gap
     //use modified insertion sort
@@ -91,7 +91,35 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
     int p;
     int j;
 
+    ///rewrite
+    for(int p = gap1; p < v.size(); p++){
+      Item temp = move(v[p]);//pull out Item to be compared against
+      for(j = p; j >= gap1 && v[j-gap1].value > temp.value; j-=gap1)
+        v[j] = move(v[j-gap1]);
 
+      v[j] = move(temp);
+    }
+
+    for(int p = gap2; p < v.size();p++){
+      Item temp = move(v[p]);
+      for(int j = p; j >= gap2 && v[j-gap2].value > temp.value; j-=gap2)
+        v[j] = move(v[j-gap2]);
+
+      v[j] = move(temp);
+    }
+
+    for(int p = gap3; p < v.size(); p++){
+      Item temp = move(v[p]);
+      for(j = p; j >= gap3 && temp.value < v[j-gap3].value; j-=gap3){
+        v[j] = move(v[j-gap3]);
+
+      v[j] = move(temp);
+      }
+    }
+    ///
+
+/*
+    ///gap1
     for(int p = gap1; p < array_size; p+=gap1)
     {
         Item temp = std::move(work_vec[p]);
@@ -126,6 +154,7 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
         }
             work_vec[j] = std::move(temp);
     }
+*/
 
     ///print final shell
            for(int i = 0; (unsigned)i < work_vec.size(); i++)
