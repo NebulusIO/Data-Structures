@@ -126,46 +126,6 @@ void SortAlg::shell(int gap1, int gap2, int gap3){
 
   }//end gap3 if
 
-    ///
-
-/*
-    ///gap1
-    for(int p = gap1; p < array_size; p+=gap1)
-    {
-        Item temp = std::move(work_vec[p]);
-
-        for(j = p; j > 0 && temp.value < work_vec[j-gap1].value; j-=gap1)
-        {
-            work_vec[j] = std::move(work_vec[j-gap1]);
-        }
-            work_vec[j] = std::move(temp);
-    }
-
-    ///gap2
-    for(int p = gap2; p < array_size; p+=gap2)
-    {
-        Item temp = std::move(work_vec[p]);
-
-        for(j = p; j > 0 && temp.value < work_vec[j-gap2].value; j-=gap2)
-        {
-            work_vec[j] = std::move(work_vec[j-gap2]);
-        }
-            work_vec[j] = std::move(temp);
-    }
-
-    ///gap3
-    for(int p = gap3; p < array_size; p+=gap3)
-    {
-        Item temp = std::move(work_vec[p]);
-
-        for(j = p; j > 0 && temp.value < work_vec[j-gap3].value; j-=gap3)
-        {
-            work_vec[j] = std::move(work_vec[j-gap3]);
-        }
-            work_vec[j] = std::move(temp);
-    }
-*/
-
     ///print final shell
            for(int i = 0; (unsigned)i < v.size(); i++)
             cout << v[i].value << "," << v[i].index << ";";
@@ -228,15 +188,6 @@ void SortAlg::merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int 
 void SortAlg::partition_(int pivot){
   std::vector<Item> v = this->m_string;//copy m_string to v
 
-  //testing
-  /*cout << "original string: ";
-  for(int i = 0; (unsigned)i < v.size(); i++)
-   cout << v[i].value << "," << v[i].index << ";";
-   cout << endl;
-   */
-  //
-
-
   int left = 0;
   int right = v.size() - 1;
   int end = right;//since right will be iterated
@@ -268,32 +219,7 @@ void SortAlg::partition_(int pivot){
   std::swap(v[left],v[end]);
   //###
 
-/*
-  while(left <= right){
-    while(v[left].value < v[pivot].value){
-      left++;//move leftItr right to find a value that needs to be moved
-    }
-    while(v[right].value > v[pivot].value){
-      right--; //move rightItr left to find value to be swapped
-    }
-    if(left <= right){
-      Item temp = move(v[left]);
-      v[left] = move(v[right]);
-      v[right] = move(temp);
-      //swap
-
-      left++;
-      right--;
-      //itr both
-    }//end if
-
-  }//end while
-*/
-
-//***remove
-//cout << "partition about pivot: ";
-//
-
+  //prints partition_
   for(int i = 0; (unsigned)i < v.size(); i++)
    cout << v[i].value << "," << v[i].index << ";";
    cout << endl << endl;
@@ -302,7 +228,37 @@ void SortAlg::partition_(int pivot){
 }
 
 int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
+  int end = right;
 
+  //swap pivot and last element
+  std::swap(v[pivot],v[end]);
+  right--;//move right iterator inward to look at first elemet to start swapping
+  //
+
+  //swapping inward iteratively
+  while(left != right){
+    while(v[left].value < v[end].value){
+      left++;//iterate left inward if value is already less than pivot value
+    }
+    while(v[right].value > v[end].value){
+      right--;
+    }
+    if(left < right){
+      std::swap(v[left], v[right]);
+    }
+    else
+      break;
+  }
+  //
+
+  //swap pivot back to correct position
+  std::swap(v[left],v[end]);
+  //###
+
+  return left;
+
+
+/*
   while(left <= right){
     while(v[left].value < v[pivot].value){//move left ptr until a value needs to be swapped
         left++;
@@ -322,6 +278,7 @@ int SortAlg::partition_(std::vector<Item> & v, int left, int right, int pivot){
     }
   }//end while
   return left; //returns the pivot index of recursive call
+  */
 }//end partition_
 
 void SortAlg::quick_sort(){ //driving function w/ copy string & print functionality
