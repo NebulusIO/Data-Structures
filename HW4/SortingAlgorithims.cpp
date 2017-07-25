@@ -298,7 +298,17 @@ void SortAlg::quick_sort(std::vector<Item> & v, int left, int right){ //begin re
   if(left >= right) //base case for recursive function
     return;
 
-  int pivot = (left + right) / 2; //find the midpoint / median for pivot
+    int pivot;
+
+    //median of 0, n-1, n/2
+    if(v[0].value < v[v.size()-1].value && v[0].value < v[v.size()/2].value)
+      pivot = 0;
+    else if (v[v.size()-1].value < v[0].value && v[v.size()-1].value < v[v.size()/2].value)
+      pivot = v.size()-1;
+    else if(v[v.size()/2].value < v[0].value && v[v.size()/2].value < v[v.size()-1].value)
+      pivot = v.size()/2;
+
+
   int index = partition_(v, left, right, pivot);
   quick_sort(v, left, index - 1);//quick_sort left_subarray
   quick_sort(v, index, right);//quick_sort right_subarray

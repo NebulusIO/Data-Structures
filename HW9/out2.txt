@@ -1,0 +1,27 @@
+Evan Olds, Cpt S 223 Instructor
+10
+10
+4
+4
+4
+4
+4
+4
+4
+12
+A,G,H,I,B,
+12
+B,I,H,G,A,
+G,H,I,
+-1
+0
+-1
+0
+0
+no path
+no path
+no path
+no path
+no path
+no path
+Done

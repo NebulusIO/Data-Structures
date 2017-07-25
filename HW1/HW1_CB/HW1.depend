@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1497504844 source:/home/troy/Desktop/223programs/HW1/HW1_CB/main.cpp
+	"reverse_stack.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1497505259 /home/troy/Desktop/223programs/HW1/HW1_CB/reverse_stack.h
+	"StackNode.h"
+
+1497504295 /home/troy/Desktop/223programs/HW1/HW1_CB/node.h
+	<iostream>
+
+1497504295 source:/home/troy/Desktop/223programs/HW1/HW1_CB/node.cpp
+	"node.h"
+
+1497505970 source:/home/troy/Desktop/223programs/HW1/HW1_CB/reverse_stack.cpp
+	"reverse_stack.h"
+
+1497504295 /home/troy/Desktop/223programs/HW1/HW1_CB/StackNode.h
+	<iostream>
+
+1497505989 source:/home/troy/Desktop/223programs/HW1/HW1_CB/StackNode.cpp
+	"StackNode.h"
+
