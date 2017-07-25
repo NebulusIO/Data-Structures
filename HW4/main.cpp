@@ -3,7 +3,7 @@
 // HW #4
 // CptS 223 - Advanced Data Structures
 
-#include "SortingAlgorithims.h"
+#include "SortingAlgorithims.hpp"
 
 #include <iostream> //std::cout std::endl;
 #include <string> //std::string
@@ -52,7 +52,9 @@ vector<Item> my_Array;
 
         else if(cmd.find("shell(") == 0)
         {
-            int gap_1, gap_2, gap_3; //initilize gap vals
+            int gap_1 = 0; //initilize gap vals
+            int gap_2 = 0;
+            int gap_3 = 0;
             int comma = 0;
             string temp_str = ""; //temp string for stoi
 
@@ -82,6 +84,7 @@ vector<Item> my_Array;
             //run shell()
             workArray.shell(gap_1, gap_2, gap_3);
 
+            parameter = "";
 
         }
 
@@ -96,7 +99,7 @@ vector<Item> my_Array;
             pivot = stoi(parameter);
 
             ///testing
-            cout << "pivot is: " << pivot << endl;
+            //cout << "pivot is: " << pivot << endl;
             //
 
             workArray.partition_(pivot);

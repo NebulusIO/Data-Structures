@@ -1,4 +1,4 @@
-#include "SortingAlgorithims.h"
+#include "SortingAlgorithims.hpp"
 
 
 SortAlg::SortAlg()
@@ -225,12 +225,50 @@ void SortAlg::merge_(vector<Item> & arr1, vector<Item> & arr2, int leftPos, int 
     }
 }
 
-int SortAlg::partition_(int pivot){
+void SortAlg::partition_(int pivot){
   std::vector<Item> v = this->m_string;//copy m_string to v
+
+  //testing
+  /*cout << "original string: ";
+  for(int i = 0; (unsigned)i < v.size(); i++)
+   cout << v[i].value << "," << v[i].index << ";";
+   cout << endl;
+   */
+  //
+
 
   int left = 0;
   int right = v.size() - 1;
+  int end = right;//since right will be iterated
+  Item temp;
+  //int pivot declared in prototype
 
+  //swap pivot and last element
+  std::swap(v[pivot],v[end]);
+  right--;//move right iterator inward to look at first elemet to start swapping
+  //
+
+  //swapping inward iteratively
+  while(left != right){
+    while(v[left].value < v[end].value){
+      left++;//iterate left inward if value is already less than pivot value
+    }
+    while(v[right].value > v[end].value){
+      right--;
+    }
+    if(left < right){
+      std::swap(v[left], v[right]);
+    }
+    else
+      break;
+  }
+  //
+
+  //swap pivot back to correct position
+  std::swap(v[left],v[end]);
+  //###
+
+/*
   while(left <= right){
     while(v[left].value < v[pivot].value){
       left++;//move leftItr right to find a value that needs to be moved
@@ -250,9 +288,15 @@ int SortAlg::partition_(int pivot){
     }//end if
 
   }//end while
+*/
+
+//***remove
+//cout << "partition about pivot: ";
+//
 
   for(int i = 0; (unsigned)i < v.size(); i++)
    cout << v[i].value << "," << v[i].index << ";";
+   cout << endl << endl;
 
 
 }
