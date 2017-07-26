@@ -1,0 +1,35 @@
+Evan Olds, Cpt S 223 Instructor
+client Bob added
+client Bob has made 1 purchases
+client Sarah added
+client Bob has made 2 purchases
+client Bob has made 3 purchases
+client Sarah has made 1 purchases
+client not found
+client Bob has made 4 purchases
+123 Bob Drive
+client Bob has made 5 purchases
+client Sarah has made 2 purchases
+7654 Sarah Lane
+client already exists
+client Brian added
+client Brian has made 1 purchases
+client Bob was removed
+client not found
+client Brian has made 2 purchases
+client Brian was removed
+7654 Sarah Lane
+client not found
+client Sarah has made 3 purchases
+client Sarah was removed
+client not found
+client not found
+client Jane added
+client Jane has made 1 purchases
+client Sponge Bob added
+client Sponge Bob has made 1 purchases
+client Sponge Bob has made 2 purchases
+client not found
+client Jane has made 2 purchases
+124 Conch Street
+Done

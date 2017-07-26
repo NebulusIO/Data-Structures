@@ -32,11 +32,25 @@ public:
 
     // Copy constructor (part of the rule of 3)
     MyString(const MyString& copyMe){ //copyMe is pass-by-reference, thus is a non-pointer type
+      //deep copy
+      m_str = new char[strlen(copyMe.m_str)];//allocate memory of copyMe size
+      strcpy(m_str, copyMe.m_str);
+      //
+
+      //another deep copy?
+      //strcpy(this->m_str, copyMe.m_str);
+      //
+
+      //shallow copy
       this->m_str = copyMe.m_str;
+      //
     }
 
     // Destructor (part of the rule of 3)
-    virtual ~MyString();
+    virtual ~MyString(){
+      delete m_str;
+      //free m_str;
+    }
 
     int GetAnagrams(std::vector<MyString>& candidates, std::vector<MyString>& output) const;
 	int IndexOf(const char* str, int startIndex = 0) const;
@@ -44,7 +58,12 @@ public:
     int Length() const;
 
     // Assignment operator (part of the rule of 3)
-    MyString& operator=(const MyString& other);
+    MyString& operator=(const MyString& other){
+      if(this != other){
+        this->m_str = other.m_str;
+      }
+      return *this;
+    }
 
     void Reverse();
     void Set(const char* str);

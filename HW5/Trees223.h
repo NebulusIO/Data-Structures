@@ -7,16 +7,41 @@ HW5
 #ifndef TREES223_H
 #define TREES223_H
 
-<template>class BST
+struct Node{
+  Node* leftChild;
+  Node* rightChild;
+  <T> data;
+}
+
+//<template>class BST
+template<class T>
+class BST
 {
     public:
-        BST();
+        BST(){
+          //implement!
+        }
 
-        virtual ~BST();
+        virtual ~BST(){
+          //implement!
+        }
 
-        virtual bool Add(const T& value, std::function<int(const T& first, const T& second)> compare);
+        virtual bool Add(const T& value, std::function<int(const T& first, const T& second)> compare){
+          //duplicate values not allowed in tree, return false if value already exists
+          //if not duplicate add to BST and return true
 
-        int count() const;
+          //compare function that is 2nd paramater
+          //returns 0 if(first == second)
+          //returns >0 if(first > second)
+          //returns <0 if(first < second)
+
+          
+
+        }
+
+        int count() const{
+
+        }
 
         int CountLevels() const;
 

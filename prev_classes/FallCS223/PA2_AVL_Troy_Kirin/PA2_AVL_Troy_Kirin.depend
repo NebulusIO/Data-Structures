@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477520654 source:/home/troy/Desktop/PA2_AVL_Troy_Kirin/AVL.cpp
+	"AVL.h"
+
+1477551287 /home/troy/Desktop/PA2_AVL_Troy_Kirin/AVL.h
+	<queue>
+	<iostream>
+
+1477547528 source:/home/troy/Desktop/PA2_AVL_Troy_Kirin/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	"AVL.h"
+

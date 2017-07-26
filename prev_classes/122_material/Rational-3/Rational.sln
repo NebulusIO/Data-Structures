@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rational", "Rational\Rational.vcxproj", "{BFC4B19B-A0C9-4537-BA31-8A25DD571B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC4B19B-A0C9-4537-BA31-8A25DD571B3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFC4B19B-A0C9-4537-BA31-8A25DD571B3D}.Debug|Win32.Build.0 = Debug|Win32
+		{BFC4B19B-A0C9-4537-BA31-8A25DD571B3D}.Release|Win32.ActiveCfg = Release|Win32
+		{BFC4B19B-A0C9-4537-BA31-8A25DD571B3D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

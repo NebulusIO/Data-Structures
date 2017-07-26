@@ -1,0 +1,12 @@
+To install g++
+
+	sudo apt-get install g++
+
+Create zips
+
+	zip hello.zip main.cpp somethingelse.cpp a.out
+	zip hello.cip *.cpp *.h  //will add all .cpp files and all .h files in current directory
+
+Run with g++
+
+	

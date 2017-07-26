@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1474673404 source:/home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/bubblesort.cpp
+	"bubblesort.h"
+
+1474673406 /home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/bubblesort.h
+	<chrono>
+	<ctime>
+	<vector>
+
+1474673410 source:/home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/dataGenerator.cpp
+	"dataGenerator.h"
+
+1474673412 /home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/dataGenerator.h
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1474673416 source:/home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/fileWriter.cpp
+	"fileWriter.h"
+
+1474673418 /home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/fileWriter.h
+	<iostream>
+	<fstream>
+
+1474673422 source:/home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/main.cpp
+	<iostream>
+	"bubblesort.h"
+	"dataGenerator.h"
+	"fileWriter.h"
+	"trialController.h"
+	"mainProgram.h"
+
+1474673432 /home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/trialController.h
+	<algorithm>
+	"bubblesort.h"
+	"dataGenerator.h"
+
+1474673428 /home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/mainProgram.h
+	"fileWriter.h"
+	"trialController.h"
+
+1474673424 source:/home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/mainProgram.cpp
+	"mainProgram.h"
+	<iostream>
+
+1474673430 source:/home/troy/Desktop/pa1/Cpts223_ZacKasper_PA1/trialController.cpp
+	"trialController.h"
+	"bubblesort.h"
+	"dataGenerator.h"
+
+1474869506 source:/home/troy/Desktop/Other/FallCS223/CptS223_TroyKirin_PA1/main.cpp
+	<iostream>
+	"bubblesort.h"
+	"dataGenerator.h"
+	"fileWriter.h"
+	"trialController.h"
+	"mainProgram.h"
+
+1474673406 /home/troy/Desktop/Other/FallCS223/CptS223_TroyKirin_PA1/bubblesort.h
+	<chrono>
+	<ctime>
+	<vector>
+
+1474673412 /home/troy/Desktop/Other/FallCS223/CptS223_TroyKirin_PA1/dataGenerator.h
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1474869458 /home/troy/Desktop/Other/FallCS223/CptS223_TroyKirin_PA1/fileWriter.h
+	<iostream>
+	<fstream>
+
+1474673432 /home/troy/Desktop/Other/FallCS223/CptS223_TroyKirin_PA1/trialController.h
+	<algorithm>
+	"bubblesort.h"
+	"dataGenerator.h"
+
+1474673428 /home/troy/Desktop/Other/FallCS223/CptS223_TroyKirin_PA1/mainProgram.h
+	"fileWriter.h"
+	"trialController.h"
+

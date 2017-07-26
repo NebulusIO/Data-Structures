@@ -175,18 +175,18 @@ public:
 //Done
     MyString Substring(int startIndex, int length) const //length is the length of substring
     {
-        MyString *t_m_str = new MyString;
-        char *t_char_str = new char;
-        int j = 0;
-        while(m_str[startIndex] != '\0') {
-            t_char_str[j] = this->m_str[startIndex];
+        MyString temp_m_Str;
+        char* temp_char_str = new char;//maybe need to allocate for number of char coming in (length)
+        int i = 0;
+        while(this->m_str[startIndex] != '\0') {
+            temp_char_str[i] = this->m_str[startIndex];
             startIndex++;
-            j++;
+            i++;
         }
-        t_char_str[j] = '\0';
-        t_m_str->setStr(t_char_str);
+        temp_char_str[i] = '\0';//add null terminator
+        temp_m_Str.setStr(temp_char_str);
 
-        return *t_m_str;
+        return temp_m_Str;
     }
 
     void Write(std::ostream& stream) const

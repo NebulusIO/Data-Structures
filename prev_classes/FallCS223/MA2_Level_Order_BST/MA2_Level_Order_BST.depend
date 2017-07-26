@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1481174827 source:/home/troy/Desktop/MA2_Level_Order_BST/main.cpp
+	<iostream>
+	"bst-levelorder.cpp"
+
+1481175227 /home/troy/Desktop/MA2_Level_Order_BST/bst-levelorder.cpp
+	<iostream>
+	<queue>
+
+1481175227 source:/home/troy/Desktop/MA2_Level_Order_BST/bst-levelorder.cpp
+	<iostream>
+	<queue>
+

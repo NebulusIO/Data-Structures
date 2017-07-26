@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477466991 source:/home/troy/Desktop/Rational_Redo/main.cpp
+	<iostream>
+	"Rational.h"
+	"TestRational.h"
+
+1477467053 /home/troy/Desktop/Rational_Redo/Rational.h
+	<iostream>
+
+1444063514 /home/troy/Desktop/Rational_Redo/TestRational.h
+	<iostream>
+	"Rational.h"
+
+1477467137 source:/home/troy/Desktop/Rational_Redo/Rational.cpp
+	"Rational.h"
+

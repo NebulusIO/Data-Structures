@@ -1,0 +1,20 @@
+﻿Build started 10/12/2015 9:26:45 AM.
+     1>Project "\\psf\Home\Desktop\CS122 Stuff\ClassBST2\ClassBST\ClassBST.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BST.cpp BSTNode.cpp main.cpp Rational.cpp
+         Rational.cpp
+         main.cpp
+         BSTNode.cpp
+         BST.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\psf\Home\Desktop\CS122 Stuff\ClassBST2\Debug\ClassBST.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\psf\Home\Desktop\CS122 Stuff\ClassBST2\Debug\ClassBST.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\psf\Home\Desktop\CS122 Stuff\ClassBST2\Debug\ClassBST.lib" /MACHINE:X86 Debug\BST.obj
+         Debug\BSTNode.obj
+         Debug\main.obj
+         Debug\Rational.obj
+         ClassBST.vcxproj -> \\psf\Home\Desktop\CS122 Stuff\ClassBST2\Debug\ClassBST.exe
+     1>Done Building Project "\\psf\Home\Desktop\CS122 Stuff\ClassBST2\ClassBST\ClassBST.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.01
