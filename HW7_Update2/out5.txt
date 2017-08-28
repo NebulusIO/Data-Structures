@@ -1,7 +1,0 @@
-Evan Olds, Cpt S 223 Professor
-Student A,23;Student C,66;Student D,88;
-Student E,19;Student A,23;Student H,41;Student C,66;Student G,77;Student D,88;Student F,99;
-Student E,19;Student A,23;Student H,41;Student C,66;Student D,88;Student F,99;
-Student A,23;Student H,41;Student C,66;Student D,88;
-Student H,41;
-Done
