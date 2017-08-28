@@ -1,0 +1,18 @@
+Evan Olds, Cpt S 223 Instructor
+1
+3
+1
+Student A,23;Student G,24;Student E,44;Student F,62;Student H,91;Student D,99;
+Student D
+(student not found)
+Student I,16;Student A,23;Student G,24;Student E,44;Student O,45;Student L,58;Student K,61;Student F,62;Student J,77;Student M,79;Student H,91;Student N,94;Student D,99;
+2
+3
+2
+3
+Student I,16;Student Q,19;Student R,22;Student A,23;Student G,24;Student E,44;Student O,45;Student L,58;Student K,61;Student F,62;Student P,69;Student J,77;Student M,79;Student T,88;Student S,89;Student H,91;Student A,92;Student N,94;Student B,98;Student D,99;
+3
+Student A
+0
+3
+Done

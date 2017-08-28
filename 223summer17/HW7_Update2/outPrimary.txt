@@ -1,0 +1,1022 @@
+Evan Olds, Cpt S 223 Professor
+1
+Generic name A,209;
+Generic name A
+0
+1
+1
+Generic name A,209;Generic name T,302;
+Generic name T
+0
+2
+1
+Generic name A,209;Generic name Z,284;Generic name T,302;
+Generic name Z
+0
+3
+2
+Generic name A,209;Student 4,271;Generic name Z,284;Generic name T,302;
+Student 4
+1
+2
+2
+Generic name A,209;Student 4,271;Generic name Z,284;Generic name T,302;Loki,420;
+Loki
+1
+2
+2
+Generic name K,124;Generic name A,209;Student 4,271;Generic name Z,284;Generic name T,302;Loki,420;
+Generic name K
+1
+3
+2
+Generic name K,124;Generic name A,209;Student 4,271;Generic name Z,284;Generic name T,302;John Carmack,411;Loki,420;
+John Carmack
+1
+3
+2
+Generic name W,31;Generic name K,124;Generic name A,209;Student 4,271;Generic name Z,284;Generic name T,302;John Carmack,411;Loki,420;
+Generic name W
+1
+2
+2
+Generic name W,31;Generic name K,124;Generic name J,144;Generic name A,209;Student 4,271;Generic name Z,284;Generic name T,302;John Carmack,411;Loki,420;
+Generic name J
+1
+3
+2
+Generic name W,31;Generic name K,124;Generic name J,144;Generic name A,209;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;John Carmack,411;Loki,420;
+Hawkeye
+1
+2
+3
+Generic name W,31;Generic name K,124;Generic name J,144;Generic name A,209;Generic name D,241;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;John Carmack,411;Loki,420;
+Generic name D
+2
+2
+3
+Generic name W,31;Generic name K,124;Generic name J,144;Generic name A,209;Generic name D,241;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;John Carmack,411;Loki,420;
+Generic name N
+2
+3
+3
+Generic name W,31;Generic name K,124;Generic name J,144;Student 5,203;Generic name A,209;Generic name D,241;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;John Carmack,411;Loki,420;
+Student 5
+2
+2
+3
+Generic name W,31;Generic name K,124;Generic name J,144;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;John Carmack,411;Loki,420;
+Generic name C
+2
+3
+3
+Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;John Carmack,411;Loki,420;
+Generic name S
+2
+2
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;John Carmack,411;Loki,420;
+Black Widow
+2
+3
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;Superman,398;John Carmack,411;Loki,420;
+Superman
+2
+2
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;Superman,398;John Carmack,411;Loki,420;
+Batman
+2
+2
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;Superman,398;John Carmack,411;Loki,420;
+Generic name J
+2
+3
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Student 2
+2
+3
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name N,348;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Student 1
+2
+2
+3
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name U
+2
+3
+4
+Black Widow,0;Generic name W,31;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name E
+3
+2
+4
+Black Widow,0;Generic name W,31;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Student 3
+3
+2
+4
+Black Widow,0;Generic name W,31;Superman,73;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Superman
+3
+3
+4
+Black Widow,0;Generic name W,31;Superman,73;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;Generic name T,302;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Ghost Rider
+3
+2
+4
+Black Widow,0;Generic name W,31;Superman,73;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+The Godfather
+3
+3
+4
+Black Widow,0;Generic name W,31;Superman,73;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name Q
+3
+2
+4
+Black Widow,0;Generic name W,31;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Student 1
+3
+2
+4
+Black Widow,0;Generic name W,31;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Generic name K,124;Generic name J,144;Generic name J,159;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name V
+3
+2
+4
+Black Widow,0;Generic name W,31;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Loki
+3
+2
+4
+Black Widow,0;Generic name W,31;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name T
+3
+3
+4
+Black Widow,0;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name A
+3
+2
+4
+Black Widow,0;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name C
+3
+2
+4
+Black Widow,0;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name Y
+3
+3
+4
+Black Widow,0;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Loki
+3
+3
+4
+Black Widow,0;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;John Carmack,411;Loki,420;
+Generic name G
+3
+2
+4
+Black Widow,0;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;John Carmack,411;Loki,420;
+Hawkeye
+3
+2
+4
+Black Widow,0;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;John Carmack,411;Loki,420;
+Generic name F
+3
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;John Carmack,411;Loki,420;
+Student 1
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name A
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Superman
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name N
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name W
+2
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name F
+3
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name B
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+The Godfather
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name K
+3
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name Y
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Hulk
+3
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Hulk
+3
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name W
+3
+2
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name W
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name R
+3
+3
+4
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name X
+3
+2
+5
+Black Widow,0;Student 1,7;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name N
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name I
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+John Carmack
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+War Machine
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name Z
+0
+1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name M
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Bill Gates
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name U
+3
+1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Generic name A,209;Generic name F,217;Generic name M,230;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Generic name M
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Iron Man
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Superman
+2
+1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Hawkeye
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Student 5
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Venom
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+Black Widow
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name O
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Spider Man
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name C
+2
+1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Bill Gates
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name K
+3
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Venom
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name U
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Captain America
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name K
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Spider Man
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name Z
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Ghost Rider
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Loki
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name W
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name A
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Loki
+4
+1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Iron Man
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name A
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name U
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name R
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name J
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name U
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Iron Man
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name S
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Bill Gates
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name B
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name W
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name Z
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Ghost Rider
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name U
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Venom
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+James Bond
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Hawkeye
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Black Widow,82;Student 1,85;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Student 1
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 1,85;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name P
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 1,85;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name S,189;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name S
+4
+2
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 1,85;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name S,189;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;Generic name Z,386;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+Generic name Z
+4
+3
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 1,85;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name S,189;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 1,85;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Ghost Rider,155;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,26;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Generic name B,287;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Bill Gates,316;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name S,195;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name U,175;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Generic name R,89;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name A,242;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Iron Man,164;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Generic name W,366;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name U,216;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+5
+Black Widow,0;Student 1,7;Generic name I,19;Ghost Rider,22;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name U,214;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;James Bond,396;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;Venom,299;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;Generic name O,426;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Black Widow,82;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Venom,71;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Venom,382;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Loki,188;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Student 5,91;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name M,230;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Iron Man,264;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Bill Gates,167;Generic name U,171;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Generic name U,171;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;War Machine,280;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Generic name U,171;Generic name Y,178;Generic name X,185;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Hulk,347;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Hulk,309;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Captain America,161;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name K,64;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Spider Man,147;Generic name J,159;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name B,341;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Hawkeye,235;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Superman,41;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name U,171;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;John Carmack,74;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;The Godfather,268;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Bill Gates,215;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Spider Man,312;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Generic name A,409;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Student 1,7;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;John Carmack,411;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name F,217;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name J,196;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Generic name G,293;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name Y,178;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name A,218;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name C,24;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name N,245;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Generic name V,198;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name Z,29;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name Q,320;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;Ghost Rider,296;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Batman,267;Student 4,271;Generic name Z,284;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Superman,73;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Generic name Z,284;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Generic name Z,284;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Generic name P,77;Student 3,90;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Student 1,66;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Student 1,357;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name A,209;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Student 2,403;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name T,65;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Student 5,203;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;The Godfather,300;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name R,62;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name W,353;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Generic name C,256;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name J,159;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name E,352;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+4
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Loki,351;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name W,301;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Superman,398;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name M,194;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name N,97;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Hawkeye,291;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Black Widow,0;Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Iron Man,206;Generic name K,213;Generic name D,241;Student 4,271;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Generic name S,109;Loki,113;Generic name K,124;Generic name J,144;Generic name K,213;Generic name D,241;Student 4,271;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Loki,113;Generic name K,124;Generic name J,144;Generic name K,213;Generic name D,241;Student 4,271;Generic name T,302;Generic name U,333;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Loki,113;Generic name K,124;Generic name J,144;Generic name K,213;Generic name D,241;Student 4,271;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Loki,113;Generic name K,124;Generic name K,213;Generic name D,241;Student 4,271;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Loki,113;Generic name K,124;Generic name K,213;Student 4,271;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;Loki,420;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Loki,113;Generic name K,124;Generic name K,213;Student 4,271;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name P,77;Loki,113;Generic name K,213;Student 4,271;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Loki,113;Generic name K,213;Student 4,271;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+3
+Generic name I,19;Generic name W,31;Generic name A,49;Loki,113;Generic name K,213;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+2
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name K,213;Generic name T,302;Generic name N,348;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+2
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name K,213;Generic name T,302;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+2
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name K,213;Generic name F,360;Hawkeye,407;
+(student not found)
+-1
+-1
+2
+Generic name I,19;Generic name W,31;Generic name A,49;Generic name K,213;Hawkeye,407;
+(student not found)
+-1
+-1
+2
+Generic name I,19;Generic name W,31;Generic name A,49;Hawkeye,407;
+(student not found)
+-1
+-1
+2
+Generic name W,31;Generic name A,49;Hawkeye,407;
+(student not found)
+-1
+-1
+1
+Generic name W,31;Generic name A,49;
+(student not found)
+-1
+-1
+1
+Generic name A,49;
+(student not found)
+-1
+-1
+0
+
+(student not found)
+-1
+-1
+Done

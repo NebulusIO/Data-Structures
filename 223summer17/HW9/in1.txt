@@ -1,0 +1,10 @@
+// Approximate distances obtained from http://www.worldatlas.com/travelaids/flight_distance.htm
+set(Austin,Seattle,Oakland,Denver,New York,Orlando,Chicago,Boston|Seattle,Oakland,691;Seattle,Austin,1760;Oakland,Austin,1489;Denver,Austin,746;Denver,New York,1645;Orlando,New York,930;Austin,Orlando,998;Seattle,Chicago,1758;Chicago,New York,718;Boston,Chicago,859;Boston,Orlando,1128;Denver,Boston,1783)
+degree(Denver)
+degree(Austin)
+degree(Seattle)
+shortest_path_length(Orlando,New York)
+shortest_path(Orlando,New York)
+shortest_path_length(Seattle,Boston)
+shortest_path(Seattle,Boston)
+quit()
