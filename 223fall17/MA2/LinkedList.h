@@ -162,7 +162,7 @@ public:
 
 	// Move constructor
 	//  MA TODO: Implement!
-	LinkedList(LinkedList<T> &&other)
+	LinkedList(LinkedList<T> &&other) : this->_front(other._front), this->_end(other._end), this->_size(other._size), this->_last_accessed_index(other._last_accessed_index), this->_last_accessed_node(other._last_accessed_index)
 	{
 		cout << " [x] Move Constructor executed. " << endl;
 		// Copy the pointers within other to ourselves
