@@ -154,6 +154,7 @@ public:
 		// Copy every element in other to ourselves
 		for (size_t i = 0; i < other.getSize(); i++) {
 			/* code */
+			this->getNodeAtIndex(i) = other.getNodeAtIndex(i);
 		}
 	}
 
