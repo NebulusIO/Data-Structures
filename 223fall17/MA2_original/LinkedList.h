@@ -154,7 +154,7 @@ public:
 		// Copy every element in other to ourselves
 		for (size_t i = 0; i < other.getSize(); i++) {
 			/* code */
-			this->getElementAt(i) = other.getElementAt(i);
+			cout << other.getElementAt(i) << endl;
 		}
 	}
 
