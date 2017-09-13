@@ -44,7 +44,7 @@ void linkedListTest()
 	//**************************************************************************//
 	// Use the copy constructor
 	cout << " [x] Test #2: Copy constructor behavior" << endl;
-	LinkedList<int> copy1{ numbers };//function call of copy constructor
+	LinkedList<int> copy1{ numbers };
 	cout << "   [x] Result:" << endl;
 	cout << "   [x]  Expected:\t1 2 3 4 5 6 7 8 9 10" << endl;
 	cout << "   [x]  Actual:\t\t";

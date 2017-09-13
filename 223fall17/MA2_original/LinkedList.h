@@ -36,10 +36,12 @@ private:
 
 //*****************************************************************************
 protected:
+	/*
 	ListNode<T> *getFront()
 	{
 		return _front;
 	}
+  */
 
 	ListNode<T> *getEnd()
 	{
@@ -150,13 +152,10 @@ public:
 	{
 		cout << " [x] Copy Constructor executed. " << endl;
 		// Copy every element in other to ourselves
-
-		for(int i = 0; i < other.getSize(); i++){
-			this->addElement(other.getElementAt(i));
+		for (size_t i = 0; i < other.getSize(); i++) {
+			/* code */
+			cout << other.getElementAt(i) << endl;
 		}
-		/*for(int i : other){
-			this->addElement(other.getElementAt(i));
-		}*/
 	}
 
 
@@ -167,11 +166,7 @@ public:
 		cout << " [x] Move Constructor executed. " << endl;
 		// Copy the pointers within other to ourselves
 		//  Also copy their class varibles (_last_accessed_index, etc)
-		for (size_t i = 0; i < other.getSize(); i++) {
-			this->addElement(other.getElementAt(i));
-			this->_size = other
-			other.removeElementAt(i);
-		}
+
 		// Reset pointers in other to nullptr
 	}
 
