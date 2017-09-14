@@ -153,8 +153,7 @@ public:
 		cout << " [x] Copy Constructor executed. " << endl;
 		// Copy every element in other to ourselves
 		for (size_t i = 0; i < other.getSize(); i++) {
-			/* code */
-			cout << other.getElementAt(i) << endl;
+			this->addElement(other.getElementAt(i));
 		}
 	}
 
