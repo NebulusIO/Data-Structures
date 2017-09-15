@@ -18,9 +18,12 @@ using namespace std;
 
 /*
  *  Node datastructure for single tree node
- */ 
+ */
 template <class T>
 struct Node {
+  int int_val;
+  Node<T> *leftChild = nullptr;
+  Node<T> *rightChild = nullptr;
 };
 
 
@@ -35,7 +38,18 @@ class BST {
 
     public:
     void add(T val) {
-			cout << " [!] BST::add currently unimplemented." << endl;
+			cout << " [x] BST::Running BST add." << endl;
+      //if val is < than root; make a new Node to the left of root
+      if(val < root->int_val){
+        root->leftChild = new Node<T>;
+        root->leftChild->int_val = val;
+      }
+      //else; val is < than root; make a new Node to right of root
+      else{
+        root->rightChild = new Node<T>;
+        root->rightChild->int_val = val;
+      }
+
     }
 
     void print() {
