@@ -206,6 +206,12 @@ public:
 			delete old_top;
 		}
 
+		/*
+		for(int i = 0; i < getSize(); i++){
+			delete(getNodeAtIndex(i));
+		}
+		*/
+
 	}
 
 	// Copy assignment operator
