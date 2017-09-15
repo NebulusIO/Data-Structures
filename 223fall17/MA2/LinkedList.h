@@ -145,46 +145,37 @@ public:
 
 //***************************************************************************//
 // START Microassigment zone - all code you need to change is here
-//test
+
 	// Copy constructor
 	//  MA TODO: Implement!
 	LinkedList(const LinkedList<T> &other)
 	{
 		cout << " [x] Copy Constructor executed. " << endl;
-/*
-		if(this != &other){
-			for(int i = 0; i < other.getSize(); i++){
-				this.getNodeAtIndex(i) = other.getNodeAtIndex(i);
-			}
+		// Copy every element in other to ourselves
+		for(int i = 0; i < other.getSize(); i++){
+			this->addElement(other.getElementAt(i));
 		}
-*/
 	}
 
 
 	// Move constructor
 	//  MA TODO: Implement!
-	LinkedList(LinkedList<T> &&other) : this->_front(other._front), this->_end(other._end), this->_size(other._size), this->_last_accessed_index(other._last_accessed_index), this->_last_accessed_node(other._last_accessed_index)
+	LinkedList(LinkedList<T> &&other)
 	{
 		cout << " [x] Move Constructor executed. " << endl;
 		// Copy the pointers within other to ourselves
+		this->_front = other._front;
+		this->_end = other._end;
+		this->_size = other._size;
+		this->_last_accessed_index = other._last_accessed_index;
+		this->_last_accessed_node = other._last_accessed_node;
+
 		//  Also copy their class varibles (_last_accessed_index, etc)
 
-		/*
-		if(this != &&other){
-			for(int i = 0; i < other.getSize(); i++){
-				this.getNodeAtIndex(i) = other.getNodeAtIndex(i);
-				this.getNodeAtIndex(i) =
-				other.getNodeAtIndex(i) = nullptr;
-		}
-
-
-		for(int i = 0; i < other.getSize(); i++){
-			other.getNodeAtIndex(i)._front = nullptr;
-			other.getNodeAtIndex(i)._end = nullptr;
-			other.getNodeAtIndex(i)._last_accessed_node = nullptr;
-		}
-		*/
 		// Reset pointers in other to nullptr
+		other._front = nullptr;
+		other._end = nullptr;
+		other._last_accessed_node = nullptr;
 	}
 
 
@@ -194,12 +185,9 @@ public:
 	{
 		cout << " [x] Initializer List Constructor executed. " << endl;
 		// Add a copy of every element in values to ourselves
-
-/*
-		if(values != nullptr){
-			for(int i = 0; i < values.getSize)
+		for(int x : values){
+			addElement(x);
 		}
-*/
 	}
 
 
@@ -209,17 +197,15 @@ public:
 	{
 		cout << "  [x] LinkedList Destructor executed. " << endl;
 		// Delete every node in our internal linked list
-/*
-		LinkedList *deletePtr;
-		LinkedList *tmp = this;
 
-		while(tmp != nullptr){
-			if(tmp->getNext != nullptr)
-				deletePtr = tmp;
-				tmp = tmp->getNext();
-				delete deletePtr;
+		ListNode<T> *old_top = _front;
+
+		while(_front != nullptr){
+			old_top = _front;
+			_front = _front->getNext();
+			delete old_top;
 		}
-*/
+
 	}
 
 	// Copy assignment operator
@@ -230,13 +216,19 @@ public:
 		cout << " [x] Copy *assignment* operator called. " << endl;
 
 		// Delete our elements
-/*
-		delete this;//invokes destructor on this pointer
+		ListNode<T> *old_top = _front;
+
+		while(_front != nullptr){
+			old_top = _front;
+			_front = _front->getNext();
+			delete old_top;
+		}
 		// Add in other's elements
-		this(other);//invokes copy constructor
+		for(int i = 0; i < other.getSize(); i++){
+			this->addElement(other.getElementAt(i));
+		}
 
 		return *this;
-*/
 	}
 
 
@@ -246,10 +238,25 @@ public:
 	{
 		cout << " [x] Move *assignment* operator called. " << endl;
 		// Delete our own elements
-//		delete this;
+		ListNode<T> *old_top = _front;
+
+		while(_front != nullptr){
+			old_top = _front;
+			_front = _front->getNext();
+			delete old_top;
+		}
+
 		// Grab other data for ourselves
-//		this(other);//should invoke move constructor
+		this->_front = other._front;
+		this->_end = other._end;
+		this->_size = other._size;
+		this->_last_accessed_index = other._last_accessed_index;
+		this->_last_accessed_node = other._last_accessed_node;
+
 		// Reset their pointers to nullptr
+		other._front = nullptr;
+		other._end = nullptr;
+		other._last_accessed_node = nullptr;
 
 		return *this;
 	}
