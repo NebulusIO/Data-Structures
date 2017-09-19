@@ -138,7 +138,7 @@ class BST { //BST is a container class
     }
 
     int height() {
-      cout << " [!] BST::height currently unimplemented." << endl;
+      cout << " [!] BST::height currently running." << endl;
       return heightHelper(getRoot());
     }
 
