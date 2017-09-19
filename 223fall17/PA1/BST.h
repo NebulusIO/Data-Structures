@@ -36,6 +36,7 @@ class BST { //BST is a container class
     private:
     Node<T> *root;
 
+    //**HELPER FUNCTIONS**//
     Node<T> *newNode(T newData){
       Node<T> *tempNode = new Node<T>;
       tempNode->data = newData;
@@ -45,75 +46,81 @@ class BST { //BST is a container class
       return tempNode;
     }
 
-    //**helper function**//
     //recursively traverses to the appropriate
-     void insert(Node<T> *root, T newData){
-      if(root == nullptr) {
-        root = newNode(newData);
-        cout << "Just inserted: " << root->data << " at root." << endl;
-      }
+     void addHelper(Node<T> *root, T newData){
+       if(!root)
+        setRoot(newNode(newData));
 
-      else if(newData < root->data){
-        if(root->leftChild != nullptr)
-          insert(root->leftChild, newData);
-        else
+       else if(root->data > newData){
+        if(!root->leftChild)
           root->leftChild = newNode(newData);
-          cout << "Just inserted: " << root->leftChild->data << " at leaf." << endl;
-      }
-
-      else if(root->data < newData){
-        if(root->rightChild != nullptr)
-          insert(root->rightChild, newData);
         else
+          addHelper(root->leftChild, newData);
+        }
+        else{
+        if(!root->rightChild)
           root->rightChild = newNode(newData);
-          cout << "Just inserted: " << root->rightChild->data << " at leaf." << endl;
-      }
+        else
+          addHelper(root->rightChild, newData);
+        }
 
-      else {cout << "ERROR: Something went wrong inserting!" << endl;}
     }
 
+    void printPreOrderHelper(Node<T> *root){
+      cout << "Running printPreOrderHelper." << endl;
+      if(root)
+        cout << root->data << " ";
+      printPreOrderHelper(root->leftChild);
+      printPreOrderHelper(root->rightChild);
+    }
+
+    int heightHelper(Node<T> *root){
+      if(!root)
+        return( -1 );
+      else{
+          int leftDepth = heightHelper(root->leftChild);
+          int rightDepth = heightHelper(root->rightChild);
+
+          if(leftDepth > rightDepth)
+            return leftDepth++;
+          else
+            return rightDepth++;
+      }
+    }
+
+    int nodesCountHelper(Node<T> *root){
+      if(!root)
+        return 0;
+      return 1 + nodesCountHelper(root->leftChild) + nodesCountHelper(root->rightChild);
+    }
+    //******************************//
+
     public:
+      //constructor
+    BST(){
+      root = nullptr;
+    }
+      //Destructor
+    ~BST(){
+      delete root;
+    }
+      //copy constructor
+    BST(BST &other){
+      this->root = other.root;
+    }
+
+      //setter
+    void setRoot(Node<T>* newRoot){
+      this->root = newRoot;
+    }
+      //getter
+    Node<T> *getRoot(){
+      return this->root;
+    }
+
     void add(T val) {
 			cout << " [x] BST::Running BST add." << endl;
-      insert(this->root, val);
-
-
-      /*
-      //if root is empty; add val to root node
-      if(tempRoot == nullptr){
-        tempRoot = newNode(val);
-      }
-
-      //if val is <= than root; make a new Node to the left of root; make sure left child is empty
-      else if(val <= tempRoot->data){
-        if(tempRoot->leftChild == nullptr)
-          tempRoot->leftChild = newNode(val);
-        else{
-          while(tempRoot->leftChild != nullptr){
-            tempRoot = move(tempRoot->leftChild);
-          }
-          tempRoot->leftChild = newNode(val);
-        }
-
-      }
-      //else; val is > than root; make a new Node to right of root; make sure right child is also empty
-      else if (val > tempRoot->data){
-        if(tempRoot->rightChild == nullptr)
-          tempRoot->rightChild = newNode(val);
-        else{
-          while(tempRoot->leftChild != nullptr){
-            tempRoot = move(tempRoot->leftChild);
-          }
-          tempRoot->leftChild = newNode(val);
-        }
-
-      }
-
-      else{
-        cout << "ERROR: something went wrong with add(T val) function." << endl;
-      }
-      */
-
+      addHelper(root, val);
     }
 
     void print() {
@@ -122,46 +129,20 @@ class BST { //BST is a container class
 
     void printPreOrder() {
       cout << " [x] BST::printPreOrder currently running." << endl;
-      Node<T> *tempRoot = this->root;
-
     //recursive solution
-      printPreOrderHelper(tempRoot);
-
-    //iterative solution
-      /*
-      Node<T> *tempNode = this->root;
-      queue<Node<T> *> nodeStack;
-      nodeStack.push(tempNode);
-
-      while(nodeStack.empty() == false){
-        tempNode = nodeStack.front();
-        cout << tempNode->data << " ";
-        nodeStack.pop();
-
-        if(tempNode->rightChild)
-          nodeStack.push(tempNode->rightChild);
-        if(tempNode->leftChild)
-          nodeStack.push(tempNode->leftChild);
-      }
-      */
-    }
-
-    void printPreOrderHelper(Node<T> *root){
-      cout << "Running printPreOrderHelper." << endl;
-      if(root != nullptr)
-        cout << root->data << ' ';
-      printPreOrderHelper(root->leftChild);
-      printPreOrderHelper(root->rightChild);
+      printPreOrderHelper(getRoot());
     }
 
     int nodesCount() {
+      return nodesCountHelper(root);
     }
 
     int height() {
       cout << " [!] BST::height currently unimplemented." << endl;
-
-      return( -1 );
+      return heightHelper(getRoot());
     }
+
+
 };
 
 #endif
