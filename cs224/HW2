@@ -1,0 +1,46 @@
+Q1) In order to set up the directory.
+ - $mkdir HW2
+	makes a directory named HW2
+ - $touch realfile
+	makes a file named realfile
+ - $vim realfile
+	using 'i' to insert, added text to file
+	using ':wq'
+ - $ln realfile hardlink
+	makes a hardlink of realfile named hardlink
+ - $ln -s realfile softlink
+	makes a softlink of realfile named softlink
+ - $cp realfile filecopy
+	makes a copy of realfile named filecopy
+Q2)
+ Before changes.
+total 16
+-rw-rw-r-- 1 troy troy  19 Sep 18 21:13 filecopy
+-rw-rw-r-- 2 troy troy  19 Sep 18 21:09 hardlink
+-rw-rw-r-- 2 troy troy  19 Sep 18 21:09 realfile
+lrwxrwxrwx 1 troy troy   8 Sep 18 21:12 softlink -> realfile
+ After changes.
+total 20
+-rw-rw-r-- 1 troy troy  19 Sep 18 21:13 filecopy
+-rw-rw-r-- 2 troy troy  42 Sep 18 21:45 hardlink
+-rw-rw-r-- 2 troy troy  42 Sep 18 21:45 realfile
+lrwxrwxrwx 1 troy troy   8 Sep 18 21:12 softlink -> realfile
+The difference between the two are that the time modified is different.  realfile and hardlink have the same file numeber as they changed together.  although filecopy stayed the same.
+Q3)
+524895 filecopy  524893 hardlink  524893 realfile  524892 softlink
+Q4)
+filecopy, hardlink, realfile are all ASCII text.  hardlink is actually a link that represents realfile inode and all.  softlink is said to be a symbolic softlink
+Q5)
+$chmod 700 hardlink
+Q6)
+before realfile -rw-rw-r--
+after realfile -rwx------
+realfile is now only readable, writable and executable by the owner of the file. groups and everyone else cannot read, write, or execute the file.
+Q7)
+All the results are the same besides for file copy.
+Q8)
+The size of soft link stayed at 8 bytes where as realfile and hardlink changed size.
+Q9)
+Softlink still points to realfile which has the same inode number.  Once realfile was moved to realfile1 the inode number changed as well as hardlink changed with it. 
+Although the link count did not change.
+.
