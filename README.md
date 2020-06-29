@@ -1,4 +1,5 @@
-# 223_Programs
+# Data Structures at Washington State University
 
 Francis Troy T. Kirinhakone
-Github 223 repo
+
+Summer 2017 CS223
